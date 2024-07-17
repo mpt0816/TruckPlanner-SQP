@@ -20,15 +20,15 @@ Results of `Senarios # 12`:
 
 ## 3.1 Final Planned Path Animation 
 
-![](./figure/scenario#12#S-turn.gif)
+![](https://github.com/mpt0816/TruckPlanner-SQP/blob/main/figure/scenario%2312%23S-turn.gif)
 
 ## 3.2 Planned Path of SQP  iterative process
 
-![](./figure/scenario#12#S-turn-IterPathPlan.png)
+![](https://github.com/mpt0816/TruckPlanner-SQP/blob/main/figure/scenario%2312%23S-turn-IterPathPlan.png)
 
 ## 3.3 The Variables of Final Planned Path 
 
-![](./figure/scenario#12#S-turn-Variables.png)
+![](https://github.com/mpt0816/TruckPlanner-SQP/blob/main/figure/scenario%2312%23S-turn-Variables.png)
 
 # 4. Scenario
 
